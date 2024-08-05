@@ -1,0 +1,15 @@
+[2024-08-04 12:54:17.029][verbose] Chromium sandbox is enabled
+[2024-08-04 12:54:17.030][info] Running version 2024.4
+[2024-08-04 12:54:17.030][verbose] Creating gui-settings file and writing the default settings to it
+[2024-08-04 12:54:17.082][info] Detected locale: en-US
+[2024-08-04 12:54:17.141][info] Connected to the daemon
+[2024-08-04 12:54:17.275][info] Skip autoconnect because account token is not set
+[2024-08-04 12:54:17.296][error] Child process of type GPU exited with exit code 8704 due to abnormal-exit
+[2024-08-04 12:54:17.512][error] Child process of type GPU exited with exit code 8704 due to abnormal-exit
+[2024-08-04 12:54:17.729][error] Child process of type GPU exited with exit code 8704 due to abnormal-exit
+[2024-08-04 12:54:17.978][error] Failed to check autostart file: ENOENT: no such file or directory, access '/home/lyra/.config/autostart/mullvad-vpn.desktop'
+[2024-08-04 12:54:46.247][error] Failed to login: too-many-devices
+[2024-08-04 13:54:17.150][verbose] GRPC Channel connectivity state changed to 2
+[2024-08-04 14:21:32.724][info] before-quit received
+[2024-08-04 14:21:32.725][info] Quit initiated
+[2024-08-04 14:21:32.725][info] Unsubscribed from the daemon events
