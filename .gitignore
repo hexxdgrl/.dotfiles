@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 akregatorrc
 kconf_updaterc
 plasmanotifyrc
@@ -86,7 +87,7 @@ gtk-3.0/
 monitors.xml~
 ventoy/
 gtk-4.0/
-"Mullvad VPN"/
+Mullvad\ VPN/
 Vial/
 gtkrc
 neofetch/
@@ -106,3 +107,17 @@ kactivitymanagerd-statsrc
 pdfarranger/
 kateschemarc
 plasma.emojierrc
+=======
+discord/
+dconf/
+easyeffects/
+Electron/
+fontforge/
+gtk-3.0/
+kde.org/
+"Mullvad VPN"/
+pulse/
+ranger/
+session/
+systemd/
+yadm/
