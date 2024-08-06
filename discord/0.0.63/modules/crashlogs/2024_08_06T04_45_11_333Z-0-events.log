@@ -1,0 +1,14 @@
+2024-08-06T04:45:11.338Z 0: 
+
+----------------------------------------------
+2024-08-06T04:45:11.343Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.63"}, modulepath: /home/lyra/.config/discord/0.0.63/modules
+2024-08-06T04:45:11.346Z 2: ✅ webContents.created web1 ""
+2024-08-06T04:45:11.348Z 3: ✅ window.created win1 "discord"
+2024-08-06T04:45:11.650Z 4: ✅ webContents.did-finish-load web1
+2024-08-06T04:45:16.970Z 5: ✅ webContents.created web2 ""
+2024-08-06T04:45:16.979Z 6: ✅ window.created win2 "Discord"
+2024-08-06T04:45:18.137Z 7: ✅ webContents.did-finish-load web2
+2024-08-06T04:45:18.235Z 8: window.close win1
+2024-08-06T04:45:18.243Z 9: webContents.destroyed web1
+2024-08-06T04:45:18.245Z 10: window.closed win1
+2024-08-06T04:45:27.678Z 11: window.close win2
