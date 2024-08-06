@@ -1,5 +1,0 @@
-2024/08/05-22:45:11.264 25cb Creating DB /home/lyra/.config/discord/Local Storage/leveldb since it was missing.
-2024/08/05-22:45:11.272 25cb Reusing MANIFEST /home/lyra/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2024/08/05-22:49:25.458 25cc Level-0 table #5: started
-2024/08/05-22:49:25.478 25cc Level-0 table #5: 3249308 bytes OK
-2024/08/05-22:49:25.481 25cc Delete type=0 #3
