@@ -58,7 +58,6 @@ rncbc.org/
 filetypesrc
 ktimezonedrc
 sddmthemeinstallerrc
-fish/
 kwinoutputconfig.json
 session/
 flameshot/
@@ -121,3 +120,6 @@ ranger/
 session/
 systemd/
 yadm/
+plasma-localerc
+git\ tokens
+kcminputrc
