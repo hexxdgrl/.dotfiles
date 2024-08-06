@@ -1,19 +1,13 @@
-kde.org
-easyeffects
-Electron
-gtk-3.0
-discord
-dconf
-"Mullvad VPN"
-pulse
-qBittorrent
-session
-systemd
-yadm
-baloofileinformationrc
-dophinrc
-filetypesrc
-mimeapps.list
-pavucontrol.ini
-QtProject.conf
-trashrc
+discord/
+dconf/
+easyeffects/
+Electron/
+fontforge/
+gtk-3.0/
+kde.org/
+"Mullvad VPN"/
+pulse/
+ranger/
+session/
+systemd/
+yadm/
