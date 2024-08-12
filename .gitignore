@@ -6,8 +6,14 @@ fontforge/
 gtk-3.0/
 kde.org/
 "Mullvad VPN"/
+neofetch/
 pulse/
 ranger/
 session/
 systemd/
 yadm/
+PrusaSlicer/
+qmk/
+dolphinrc
+trashrc
+pavucontrol.ini
