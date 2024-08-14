@@ -1,13 +1,13 @@
 * {
     /* `otf-font-awesome` is required to be installed for icons */
     font-family: "JetBrains Mono";
-    font-size: 16px;
+    font-size: 18px;
     min-height: 0;
 }
 
 window#waybar {
     background: transparent;
-    /*    background-color: rgba(43, 48, 59, 0.5); */
+    background-color: rgba(0, 0, 0, 0.3);
     /*    border-bottom: 3px solid rgba(100, 114, 125, 0.5); */
     color: #ffffff;
     transition-property: background-color;
@@ -27,10 +27,9 @@ window#waybar.hidden {
 }
 
 #window {
-    margin: 2;
+    margin: 5px;
     padding-left: 8;
     padding-right: 8;
-    background-color: rgba(0, 0, 0, 0.3);
     font-size: 14px;
     font-weight: bold;
     border-radius: 2px;
@@ -58,6 +57,7 @@ button:hover {
 
 #workspaces button:hover {
     background: rgba(255, 255, 255, 0.5);
+    color: black;
 }
 
 #workspaces button.active {
@@ -90,10 +90,9 @@ button:hover {
 #idle_inhibitor,
 #scratchpad,
 #mpd {
-    margin: 2px;
+    margin: 5px;
     padding-left: 4px;
     padding-right: 4px;
-    background-color: rgba(0, 0, 0, 0.3);
     color: #ffffff;
     border-radius: 2px;
 }
