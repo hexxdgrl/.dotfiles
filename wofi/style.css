@@ -1,24 +1,24 @@
 window {
     margin: 2px;
-    border: 2px solid #7eb5d3;
+    border: 2px solid #6fc3df;
     border-radius: 5px;
-    background-color: #202646;
+    background-color: #000000;
     font-size: 16pt;
     font-family: "JetBrains Mono";
 }
 
 #input {
-    color: #202646;
-    background-color: #7ab1cf;
+    color: #ffffff;
+    background-color: #000000;
 }
 
 #input:text {
-    color: #202646;
+    color: #ffffff;
 }
 
 #input:selected {
-    color: #7ab1cf;
-    border: 2px solid #202646;
+    color: #ce9178;
+    border: 2px solid #6fc3df;
 }
 
 #entry {
@@ -27,8 +27,8 @@ window {
 
 #entry:selected {
     padding-left: 10px;
-    background-color: #202646;
-    border-left: 2px solid #7eb5d3;
+    background-color: #161616;
+    border-left: 2px solid #6fc3df;
 }
 
 #text {
