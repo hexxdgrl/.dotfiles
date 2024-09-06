@@ -132,3 +132,10 @@ mpd/
 ncmpcpp/
 go/
 .avalonia-build-tasks/
+Kitware/
+libfm/
+menus/
+OpenTabletDriver/
+pcmanfm/
+kicad/
+FreeCAD/
