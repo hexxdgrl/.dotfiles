@@ -1,0 +1,11 @@
+width=500
+height=200
+location=center
+show=drun
+prompt=search
+filter_rate=100
+allow_markup=true
+no_actions=true
+halign=fill
+insensitive=true
+term=kitty
