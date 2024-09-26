@@ -1,9 +1,3 @@
-set fish_greeting "/ᐠ - ˕ -マx"
+set fish_greeting "Haiii!!!"
 
-function fish_prompt
-    string join ' ' -- (set_color c9545d)$PWD (set_color normal)o'⥼'
-
-
-end
-
-set VISUAL 'zed'
+set VISUAL 'zeditor'

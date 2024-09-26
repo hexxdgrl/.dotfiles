@@ -1,37 +1,34 @@
 * {
     /* `otf-font-awesome` is required to be installed for icons */
-    font-family: "Noto Sans CJK KR Regular";
-    font-size: 13px;
+    font-family: "Iosevka Nerd Font";
+    font-size: 18px;
     min-height: 0;
 }
 
 window#waybar {
-    background: transparent;
-    /*    background-color: rgba(43, 48, 59, 0.5); */
-    /*    border-bottom: 3px solid rgba(100, 114, 125, 0.5); */
     color: #ffffff;
     transition-property: background-color;
     transition-duration: 0.5s;
+    background-color: #292929;
+    border: 1px #383838 solid;
 }
 
 window#waybar.hidden {
-    opacity: 0.2;
 }
 
 #waybar.empty #window {
-    background-color: transparent;
 }
 
 #workspaces {
 }
 
 #window {
-    margin: 2;
+    background-color: #181818;
     padding-left: 8;
     padding-right: 8;
-    background-color: rgba(0, 0, 0, 0.3);
     font-size: 14px;
     font-weight: bold;
+    border: 1px #383838 solid;
 }
 
 button {
@@ -40,28 +37,30 @@ button {
     /* Avoid rounded borders under each button name */
     border: none;
     border-radius: 0;
+    background-color: #181818;
+    border: 1px #383838 solid;
 }
 
 /* https://github.com/Alexays/Waybar/wiki/FAQ#the-workspace-buttons-have-a-strange-hover-effect */
 button:hover {
-    background: inherit;
-    border-top: 2px solid #c9545d;
+    background: rgba(255, 255, 255, 0.5);
+    border-top: 2px solid #ffffff;
 }
 
 #workspaces button {
     padding: 0 4px;
-    background-color: rgba(0, 0, 0, 0);
-    border-radius: 2px;
+    background-color: #181818;
 }
 
 #workspaces button:hover {
+    background: rgba(255, 255, 255, 0.5);
+    color: black;
 }
 
 #workspaces button.active {
-    box-shadow: inset 0 -2px #c9545d;
-    background-color: rgba(0, 0, 0, 0.3);
-    color: #c9545d;
-    border-top: 2px solid #c9545d;
+    box-shadow: inset 0 -2px #ffffff;
+    color: #ffffff;
+    border-top: 2px solid #ffffff;
 }
 
 #workspaces button.urgent {
@@ -72,7 +71,8 @@ button:hover {
     background-color: #64727d;
     border-bottom: 3px solid #ffffff;
 }
-
+#keyboard-state-caps,
+#keyboard-state-numlock,
 #clock,
 #battery,
 #cpu,
@@ -88,11 +88,10 @@ button:hover {
 #idle_inhibitor,
 #scratchpad,
 #mpd {
-    margin: 2px;
-    padding-left: 4px;
-    padding-right: 4px;
-    background-color: rgba(0, 0, 0, 0.3);
+    padding: 4px 6px;
     color: #ffffff;
+    background-color: #181818;
+    border: 1px #383838 solid;
 }
 
 /* If workspaces is the leftmost module, omit left margin */
