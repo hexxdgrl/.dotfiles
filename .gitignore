@@ -22,4 +22,7 @@
 !fish/
 !fish/*
 
+!mako/
+!mako/*
+
 !.gitignore
