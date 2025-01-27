@@ -1,23 +1,23 @@
 window {
     margin: 2px;
     border: 2px solid #383838;
-    background-color: #292929;
+    background-color: #fafbff;
     font-size: 16pt;
     font-family: "Iosevka Nerd Font";
 }
 
 #input {
     padding: 4px;
-    border: none;
-    color: #fff;
+    border-bottom: #2e9ad5 3px solid;
+    color: #2e9ad5;
     font-weight: bold;
-    background: #292929;
+    background: #d1e7f5;
     outline: none;
     border-radius: 0px;
 }
 
 #input:text {
-    color: #ffffff;
+    color: #fafbff;
 }
 
 #input:focus {
@@ -37,19 +37,18 @@ window {
 
 #entry:selected {
     padding-left: 10px;
-    background-color: #161616;
-    border: 2px solid #383838;
+    background-color: #d1e7f5;
+    border-right: 3px solid #2e9ad5;
 }
 
 #text {
-    color: #ffffff;
+    color: #2e9ad5;
 }
 
 #inner-box {
-    border: 2px #383838 solid;
-    background-color: #161616;
+    background-color: #fafbff;
 }
 
 #outer-box {
-    margin: 10px;
+    border: 3px solid #2e9ad5;
 }
