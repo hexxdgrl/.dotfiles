@@ -1,9 +1,9 @@
-sw_volume: 100
+sw_volume: 96
 audio_device_state:1:pavuctl
-audio_device_state:0:my_fifo
+audio_device_state:1:my_fifo
 state: pause
-current: 2
-time: 87.882000
+current: 32
+time: 162.258000
 random: 0
 repeat: 0
 single: 0
@@ -12,13 +12,39 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:akoge/akoge - _no friends/akoge - 1 - #angelwitnowings.mp3
-1:akoge/akoge - _no friends/akoge - 2 - crash.mp3
-2:akoge/akoge - _no friends/akoge - 3 - 10 calls.mp3
-3:akoge/akoge - _no friends/akoge - 4 - ITS GETTING WORSE.mp3
-4:akoge/akoge - _no friends/akoge - 5 - rainbow Road !!.mp3
-5:akoge/akoge - _no friends/akoge - 6 - sg.mp3
-6:akoge/akoge - _no friends/akoge - 7 - citgo.mp3
-7:akoge/akoge - _no friends/akoge - 8 - Sega misfit.mp3
-8:akoge/akoge - _no friends/akoge - 9 - i dont remember...mp3
+0:Sewerslvt/Sewerslvt - Skitzofrenia Simulation/Sewerslvt - 1 - My Fvcked Up Head.mp3
+1:Sewerslvt/Sewerslvt - Skitzofrenia Simulation/Sewerslvt - 2 - I Break My Heart & Yours.mp3
+2:Sewerslvt/Sewerslvt - Skitzofrenia Simulation/Sewerslvt - 3 - Looming.Sorrow.Descent.mp3
+3:Sewerslvt/Sewerslvt - Skitzofrenia Simulation/Sewerslvt - 4 - I Bleed.mp3
+4:Sewerslvt/Sewerslvt - Skitzofrenia Simulation/Sewerslvt - 5 - Restlessness.mp3
+5:Sewerslvt/Sewerslvt - Skitzofrenia Simulation/Sewerslvt - 6 - Existing Everywhere.mp3
+6:Sewerslvt/Sewerslvt - Skitzofrenia Simulation/Sewerslvt - 7 - Car Accident.mp3
+7:Sewerslvt/Sewerslvt - Skitzofrenia Simulation/Sewerslvt - 8 - Purple Hearts in Her Eyes.mp3
+8:Sewerslvt/Sewerslvt - Skitzofrenia Simulation/Sewerslvt - 9 - Slvtcrvsher.mp3
+9:Sewerslvt/Sewerslvt - Skitzofrenia Simulation/Sewerslvt - 10 - Ecocide Suite.mp3
+10:Sewerslvt/Sewerslvt - Skitzofrenia Simulation/Sewerslvt - 11 - Antidepressant.mp3
+11:Sewerslvt/Sewerslvt - Skitzofrenia Simulation/Sewerslvt - 12 - Never Existed.mp3
+12:Sewerslvt/Sewerslvt - Skitzofrenia Simulation/Sewerslvt - 13 - Blooming Iridescent Flower.mp3
+13:Sewerslvt/Sewerslvt - Skitzofrenia Simulation/Sewerslvt - 14 - With You Forever.mp3
+14:Sewerslvt/Sewerslvt - The World Is Fvcked/Sewerslvt - 1 - A Thousand Lonely.mp3
+15:Sewerslvt/Sewerslvt - The World Is Fvcked/Sewerslvt - 2 - MAKE‐ME‐SAD.mp3
+16:Sewerslvt/Sewerslvt - The World Is Fvcked/Sewerslvt - 3 - Psychosis.mp3
+17:Sewerslvt/Sewerslvt - The World Is Fvcked/Sewerslvt - 4 - Something of Value Less Than That.mp3
+18:Sewerslvt/Sewerslvt - The World Is Fvcked/Sewerslvt - 5 - Ruined Snowy Day.mp3
+19:Sewerslvt/Sewerslvt - The World Is Fvcked/Sewerslvt - 6 - I Really Like You pt2.mp3
+20:Sewerslvt/Sewerslvt - The World Is Fvcked/Sewerslvt - 7 - Jvnko Still Loves You.mp3
+21:Sewerslvt/Sewerslvt - we had good times together, don’t forget that/Sewerslvt - 1 - dissociating.mp3
+22:Sewerslvt/Sewerslvt - we had good times together, don’t forget that/Sewerslvt - 2 - self destruction worldwide broadcast.mp3
+23:Sewerslvt/Sewerslvt - we had good times together, don’t forget that/Sewerslvt - 3 - all the joy in life was gone once you left.mp3
+24:Sewerslvt/Sewerslvt - we had good times together, don’t forget that/Sewerslvt - 4 - the last thing she sent me.mp3
+25:Sewerslvt/Sewerslvt - we had good times together, don’t forget that/Sewerslvt - 5 - light at the end of the tunnel.mp3
+26:Sewerslvt/Sewerslvt - we had good times together, don’t forget that/Sewerslvt - 6 - ultradespair.mp3
+27:Sewerslvt/Sewerslvt - we had good times together, don’t forget that/Sewerslvt - 7 - borderline.mp3
+28:Sewerslvt/Sewerslvt - we had good times together, don’t forget that/Sewerslvt - 8 - whatever.mp3
+29:Sewerslvt/Sewerslvt - we had good times together, don’t forget that/Sewerslvt - 9 - blissful overdose.mp3
+30:Sewerslvt/Sewerslvt - we had good times together, don’t forget that/Sewerslvt - 10 - inertia status.mp3
+31:Sewerslvt/Sewerslvt - we had good times together, don’t forget that/Sewerslvt - 11 - die alone.mp3
+32:Sewerslvt/Sewerslvt - we had good times together, don’t forget that/Sewerslvt - 12 - sick, twisted, demented.mp3
+33:Sewerslvt/Sewerslvt - we had good times together, don’t forget that/Sewerslvt - 13 - her.mp3
+34:Sewerslvt/Sewerslvt - we had good times together, don’t forget that/Sewerslvt - 14 - goodbye.mp3
 playlist_end
