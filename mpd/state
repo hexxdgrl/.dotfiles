@@ -1,9 +1,8 @@
 sw_volume: 96
 audio_device_state:1:pavuctl
 audio_device_state:1:my_fifo
-state: pause
-current: 32
-time: 162.258000
+state: stop
+current: 34
 random: 0
 repeat: 0
 single: 0
